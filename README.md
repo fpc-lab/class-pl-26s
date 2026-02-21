@@ -1,4 +1,4 @@
-# Programming Languages (Spring 2026 @ POSTECH)
+# Programming Languages (Spring 2026)
 
 ### Logistics
 
