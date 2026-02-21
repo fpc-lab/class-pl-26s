@@ -31,5 +31,5 @@
 
 ### Links
 
-- [**Schedule**](https://www.notion.so/Schedule-2f320e4a9d6580ee8446c57ac81a644e?pvs=21)
-- [**Homework**](https://www.notion.so/Homework-2f320e4a9d6580fd9922f6df95d22641?pvs=21)
+- [**Schedule**](./schedule.md)
+- [**Homework**](./homework.md)
