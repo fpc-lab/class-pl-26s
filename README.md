@@ -20,10 +20,10 @@
 
 ### Grades
 
-- **Attendance (0%):** Fail if you miss ≥ 8 classes in the electronic system (전자출결).
-- **Participation (5%):** Full credit if you ask ≥ 4 questions during or after class.
+- **Attendance (0%):** Fail if you are absent for ≥ 8 classes (based on the electronic attendance system).
+- **Participation (5%):** Full credit if you ask ≥ 4 in-person questions during or after class.
 - **Homework (65%):** You will have 9 programming assignments.
-- **Exams (30%):** You will have a midterm exam (15%) and a final exam (15%).
+- **Exams (30%):** You will have 2 exams: a midterm (15%) and a final (15%).
 
 ### Books
 
