@@ -2,8 +2,8 @@
 
 | Date | Unit | Sections | Topics | Out | Due |
 | --- | --- | --- | --- | --- | --- |
-| 2/24 | Functional Programming | 1.1–1.5 | Overview, Expressions, Functions, Types |  |  |
-| 2/26 |  | 1.6–1.9 | Recursion, Datatypes | HW1 |  |
+| 2/24 | Functional Programming | 1.1–1.4 | Overview, Expressions, Functions |  |  |
+| 2/26 |  | 1.5–1.9 | Types, Recursion, Datatypes | HW1 |  |
 | 3/3 |  | 1.10–1.11 | Higher-Order Functions, Modules |  |  |
 | 3/5 | Inductive Definitions | 2.1–2.3 | Inductive Definitions | HW2 | **HW1** |
 | 3/10 |  | 2.4 | Inductive Proofs |  |  |
