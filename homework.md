@@ -3,10 +3,11 @@
 ### Software
 
 - **OCaml Installation**
-    - Install **OCaml 5.4.0** (e.g., by following https://ocaml.org/install).
+    - Install **OCaml 4.14.2** (e.g., follow https://ocaml.org/install, then run `opam switch create 4.14.2`).
+    - You can check your OCaml version by running `ocaml`: it should start with "OCaml version 4.14.2". 
     - If you use another OCaml version, your code may **NOT** be graded correctly.
 - **OCaml References**
-    - [The OCaml Manual (by Xavier Leroy et al.)](https://ocaml.org/manual/5.4/index.html)
+    - [The OCaml Manual (by Xavier Leroy et al.)](https://ocaml.org/manual/4.12/index.html)
     - [포스텍 전자계산입문 강의노트 (by 박성우)](http://pl.postech.ac.kr/~gla/cs101/notes/all.pdf)
 
 ### Grading Criteria
