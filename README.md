@@ -20,7 +20,7 @@
 
 ### Grades
 
-- **Attendance (5%):** You should ask 2+ questions in class (or after class) to get full credit.
+- **Attendance (5%):** You should ask 3+ questions in class (or after class) to get full credit.
 - **Homework (65%):** You will have 9 programming assignments.
 - **Exams (30%):** You will have a midterm exam (15%) and a final exam (15%).
 
