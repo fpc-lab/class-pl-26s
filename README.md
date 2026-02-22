@@ -20,7 +20,8 @@
 
 ### Grades
 
-- **Attendance (5%):** You should ask 3+ questions in class (or after class) to get full credit.
+- **Attendance (0%):** Fail if you miss ≥ 8 classes in the electronic system (전자출결).
+- **Participation (5%):** Full credit if you ask ≥ 4 questions during or after class.
 - **Homework (65%):** You will have 9 programming assignments.
 - **Exams (30%):** You will have a midterm exam (15%) and a final exam (15%).
 
