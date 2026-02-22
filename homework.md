@@ -4,7 +4,7 @@
 
 - **OCaml Installation**
     - Install **OCaml 4.14.2** (e.g., follow https://ocaml.org/install, then run `opam switch create 4.14.2`).
-    - Check your OCaml version by running `ocaml`. It should output "OCaml version 4.14.2". 
+    - Check your OCaml version by running `ocaml`. It must output "OCaml version 4.14.2". 
     - If you use another OCaml version, your code may **NOT** be graded correctly.
 - **OCaml References**
     - [The OCaml Manual (by Xavier Leroy et al.)](https://ocaml.org/manual/4.12/index.html)
