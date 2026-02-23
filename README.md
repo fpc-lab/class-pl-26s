@@ -27,7 +27,7 @@
 
 ### Books
 
-- **Textbook:** [Programming Languages Course Notes (by Sungwoo Park)](https://wonyeol.github.io/files/postech-csed321-notes-2022.pdf)
+- **Textbook:** [Programming Languages Course Notes (by Sungwoo Park)](./all.pdf?raw=true)
 - **Reference:** [Types and Programming Languages (by Benjamin Pierce)](https://www.cis.upenn.edu/~bcpierce/tapl/)
 
 ### Links
