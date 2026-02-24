@@ -8,7 +8,7 @@
     - If you use another OCaml version, your code may **NOT** be graded correctly.
 - **OCaml References**
     - [The OCaml Manual (by Xavier Leroy et al.)](https://ocaml.org/manual/4.12/index.html)
-    - [포스텍 전자계산입문 강의노트 (by 박성우)](http://pl.postech.ac.kr/~gla/cs101/notes/all.pdf)
+    - [포스텍 전자계산입문 강의노트 (by 박성우)](./cs101-notes.pdf?raw=true)
 
 ### Grading Criteria
 
