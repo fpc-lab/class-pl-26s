@@ -5,18 +5,18 @@
 | 2/24 | Functional Programming | 1.1–1.3 | Overview, Expressions, Variables |  |  |
 | 2/26 |  | 1.4–1.7 | Functions, Types, Recursion | HW1 |  |
 | 3/3 |  | 1.8–1.12 | Datatypes, Higher-Order Functions, Modules |  |  |
-| 3/5 | Inductive Definitions | 2.1–2.3 | Inductive Definitions | HW2 | **HW1** |
-| 3/10 |  | 2.4 | Inductive Proofs |  |  |
-| 3/12 |  | 2.5 | Techniques for Inductive Proofs | HW3 | **HW2** |
-| 3/17 | Untyped λ-Calculus | 3.1–3.2 | Untyped λ-Calculus |  |  |
-| 3/19 |  | 3.3 | Substitution in λ-Calculus | HW4 | **HW3** |
-| 3/24 |  | 3.4–3.5 | Programming in λ-Calculus  |  |  |
+| 3/5 | Inductive Definitions | 2.1–2.3 | Inductive Definitions |  |  |
+| 3/10 |  | 2.4 | Inductive Proofs | HW2 | **HW1** |
+| 3/12 |  | 2.5 | Techniques for Inductive Proofs |  |  |
+| 3/17 | Untyped λ-Calculus | 3.1–3.2 | Untyped λ-Calculus | HW3 | **HW2** |
+| 3/19 |  | 3.3 | Substitution in λ-Calculus |  |  |
+| 3/24 |  | 3.4–3.5 | Programming in λ-Calculus  | HW4 | **HW3** |
 | 3/26 | Simply Typed λ-Calculus | 4.1–4.3 | Simply Typed λ-Calculus |  |  |
-| 3/31 |  | 5.1–5.4 | Extensions to λ-Calculus  | HW5 | **HW4** |
-| 4/2 |  | 4.4, 5.6 | Type Safety |  |  |
+| 3/31 |  | 5.1–5.4 | Extensions to λ-Calculus  |  |  |
+| 4/2 |  | 4.4, 5.6 | Type Safety | HW5 | **HW4 (4/5)** |
 | 4/7 | - More Operational Semantics | 3.7 | De Bruijn Indexes |  |  |
-| 4/9 |  | 8.1–8.2 | Evaluation Contexts |  | **HW5 (4/12)** |
-| 4/14 |  |  | No Class |  |  |
+| 4/9 |  | 8.1–8.2 | Evaluation Contexts |  |  |
+| 4/14 |  |  | No Class |  | **HW5** |
 | 4/16 |  |  | **Midterm Exam (9:15am—10:45am)** | HW6 |  |
 | 4/21 |  | 8.3–9.1 | Abstract Machine C, Environments |  |  |
 | 4/23 |  | 9.2–9.4 | Closures, Abstract Machine E |  |  |
