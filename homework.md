@@ -9,7 +9,7 @@
 - **OCaml References**
     - [Get Started](https://ocaml.org/docs/get-started): Installation of OCaml + high-level understanding of the language.
     - [Language Documentation](https://ocaml.org/docs/language): In-depth understanding of the language.
-    - [The OCaml Manual](https://ocaml.org/manual/4.12/index.html): Very detailed manual of the language.
+    - [The OCaml Manual](https://ocaml.org/manual/4.12/index.html): Very detailed documentation of the language.
     - [포스텍 전자계산입문 강의노트 (by 박성우)](./cs101-notes.pdf)
 
 ### Grading Criteria
