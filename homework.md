@@ -38,4 +38,4 @@
     - **HW7 (21 days):** TBA
 - Other Topics
     - **HW8 (12 days):** TBA
-    - **HW9 (12 days):** TBA
+    - **HW9 (10 days):** TBA
