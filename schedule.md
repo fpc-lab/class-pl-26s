@@ -33,4 +33,4 @@
 | 6/2 |  | [Link](https://lean-lang.org/theorem_proving_in_lean4/Tactics/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Inductive-Types/) | Theorem Proving in Lean ([1](https://avigad.github.io/lamr/using_lean_as_a_proof_assistant.html), [2](https://avigad.github.io/lamr/equality_and_induction_in_lean.html) / [3](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-20-25.lean), [4](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-27-25.lean), [5](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-04-17-25.lean)) |  |  |
 | 6/4 | Conclusion | N/A | Course Wrap-Up | HW9 | **HW8 (6/7)** |
 | 6/9 |  |  | No Class (Final Week) |  |  |
-| 6/11 |  |  | **Final Exam (9:15am—10:45am)** |  | **HW9 (6/16)** |
+| 6/11 |  |  | **Final Exam (9:15am—10:45am)** |  | **HW9 (6/14)** |
