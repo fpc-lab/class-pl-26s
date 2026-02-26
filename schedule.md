@@ -13,7 +13,7 @@
 | 3/24 |  | 3.4–3.5 | Programming in λ-Calculus  | HW4 | **HW3** |
 | 3/26 | Simply Typed λ-Calculus | 4.1–4.3 | Simply Typed λ-Calculus |  |  |
 | 3/31 |  | 5.1–5.4 | Extensions to λ-Calculus  |  |  |
-| 4/2 |  | 4.4, 5.6 | Type Safety | HW5 | **HW4 (4/5)** |
+| 4/2 |  | 4.4, 5.6 | Type Safety | HW5 (4/3) | **HW4 (4/3)** |
 | 4/7 | - More Operational Semantics | 3.7 | De Bruijn Indexes |  |  |
 | 4/9 |  | 8.1–8.2 | Evaluation Contexts |  |  |
 | 4/14 |  |  | No Class (Midterm Week) |  | **HW5** |
@@ -31,6 +31,6 @@
 | 5/26 | Theorem Proving | [Link](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf), [Link](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/) | Curry-Howard Correspondence | HW8 | **HW7** |
 | 5/28 |  | [Link](https://lean-lang.org/theorem_proving_in_lean4/Dependent-Type-Theory/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Quantifiers-and-Equality/) | Dependent Types |  |  |
 | 6/2 |  | [Link](https://lean-lang.org/theorem_proving_in_lean4/Tactics/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Inductive-Types/) | Theorem Proving in Lean ([1](https://avigad.github.io/lamr/using_lean_as_a_proof_assistant.html), [2](https://avigad.github.io/lamr/equality_and_induction_in_lean.html) / [3](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-20-25.lean), [4](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-27-25.lean), [5](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-04-17-25.lean)) |  |  |
-| 6/4 | Conclusion | N/A | Course Wrap-Up | HW9 | **HW8 (6/7)** |
+| 6/4 | Conclusion | N/A | Course Wrap-Up | HW9 (6/5) | **HW8 (6/5)** |
 | 6/9 |  |  | No Class (Final Week) |  |  |
 | 6/11 |  |  | **Final Exam (9:15am—10:45am)** |  | **HW9 (6/14)** |
