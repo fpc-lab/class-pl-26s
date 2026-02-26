@@ -30,9 +30,9 @@
 ### Schedule
 
 - Functional Programming
-    - **HW1 (7 days):** TBA
-    - **HW2 (7 days):** TBA
-    - **HW3 (7 days):** TBA
+    - **HW1 (7 days):** OCaml Programming 1
+    - **HW2 (7 days):** OCaml Programming 2
+    - **HW3 (7 days):** OCaml Programming 3
 - λ-Calculus
     - **HW4 (12 days):** TBA
     - **HW5 (12 days):** TBA
