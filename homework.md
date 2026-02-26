@@ -7,10 +7,10 @@
     - Check your OCaml version by running `ocaml`. It must output "OCaml version 4.14.2". 
     - If you use another OCaml version, your code may **NOT** be graded correctly.
 - **OCaml References**
+    - [포스텍 전자계산입문 강의노트](./cs101-notes.pdf): Introduction to OCaml and computational thinking (in Korean).
     - [Get Started](https://ocaml.org/docs/get-started): Installation of OCaml + high-level understanding of the language.
-    - [Language Documentation](https://ocaml.org/docs/language): In-depth understanding of the language.
-    - [The OCaml Manual](https://ocaml.org/manual/4.12/index.html): Very detailed documentation of the language.
-    - [포스텍 전자계산입문 강의노트 (by 박성우)](./cs101-notes.pdf)
+    - [Language Documentation](https://ocaml.org/docs/language): In-depth explanation of OCaml.
+    - [The OCaml Manual](https://ocaml.org/manual/4.12/index.html): Very detailed documentation of OCaml.
 
 ### Grading Criteria
 
