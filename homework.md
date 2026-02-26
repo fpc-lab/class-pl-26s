@@ -34,10 +34,10 @@
     - **HW2 (7 days):** OCaml Programming 2
     - **HW3 (7 days):** OCaml Programming 3
 - λ-Calculus
-    - **HW4 (12 days):** TBA
-    - **HW5 (12 days):** TBA
+    - **HW4 (~10 days):** TBA
+    - **HW5 (~10 days):** TBA
     - **HW6 (14 days):** TBA
     - **HW7 (21 days):** TBA
 - Other Topics
-    - **HW8 (12 days):** TBA
-    - **HW9 (10 days):** TBA
+    - **HW8 (~10 days):** TBA
+    - **HW9 (~10 days):** TBA
