@@ -30,7 +30,7 @@
 ### Schedule
 
 - Functional Programming
-    - **HW1 (7 days):** OCaml Programming 1
+    - **HW1 (7 days):** [OCaml Programming 1](https://plms.postech.ac.kr/mod/assign/view.php?id=215554)
     - **HW2 (7 days):** OCaml Programming 2
     - **HW3 (7 days):** OCaml Programming 3
 - λ-Calculus
