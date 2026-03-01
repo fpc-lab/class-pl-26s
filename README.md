@@ -15,7 +15,7 @@
 
 ### Prerequisites
 
-- **Requirements:** None, as this course is self-contained. However, familiarity with Discrete Mathematics, Data Structures, and Algorithms is recommended.
+- **Requirements:** None, as this course is self-contained. However, familiarity with Discrete Mathematics and Data Structures is recommended.
 - **Expectations:** A strong interest in both Computer Science and Mathematics, and a strong willingness to learn new and challenging material.
 
 ### Grades
