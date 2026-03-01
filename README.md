@@ -27,7 +27,7 @@
 
 ### Books
 
-- **Textbook:** [Programming Languages Course Notes (by Sungwoo Park)](https://raw.githubusercontent.com/fpc-lab/class-pl-26s/refs/heads/main/cs321-notes.pdf)
+- **Textbook:** [Programming Languages Course Notes (by Sungwoo Park)](https://raw.githubusercontent.com/fpc-lab/class-pl-26s/refs/heads/main/cs321-notes.pdf) (Updated on March 2)
 - **Reference:** [Types and Programming Languages (by Benjamin Pierce)](https://www.cis.upenn.edu/~bcpierce/tapl/)
 
 ### Links
