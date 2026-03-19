@@ -31,8 +31,8 @@
 
 - Functional Programming
     - **HW1 (7 days):** [OCaml Programming 1](https://plms.postech.ac.kr/mod/assign/view.php?id=215554)
-    - **HW2 (7 days):** OCaml Programming 2
-    - **HW3 (7 days):** OCaml Programming 3
+    - **HW2 (7 days):** [OCaml Programming 2](https://plms.postech.ac.kr/mod/assign/view.php?id=216964)
+    - **HW3 (7 days):** [OCaml Programming 3](https://plms.postech.ac.kr/mod/assign/view.php?id=218762)
 - λ-Calculus
     - **HW4 (~10 days):** TBA
     - **HW5 (~10 days):** TBA
