@@ -15,10 +15,10 @@
 | 3/31 | Simply Typed λ-Calculus | 4.1–4.3 | Simply Typed λ-Calculus  |  |  |
 | 4/2 |  | 5.1–5.4 | Extensions to λ-Calculus | HW5 (4/3) | **HW4 (4/3)** |
 | 4/7 |  | 4.4, 5.6 | Type Safety |  |  |
-| 4/9 | - More Operational Semantics | 3.7 | De Bruijn Indexes |  |  |
+| 4/9 |  | 3.7 | De Bruijn Indexes |  |  |
 | 4/14 |  |  | No Class (Midterm Week) |  | **HW5** |
 | 4/16 |  |  | **Midterm Exam (9:15am—10:45am)** |  |  |
-| 4/21 |  | 8.1–8.2 | Evaluation Contexts |  |  |
+| 4/21 | - More Operational Semantics | 8.1–8.2 | Evaluation Contexts |  |  |
 | 4/23 |  | 8.3–9.1 | Abstract Machine C, Environments | HW6 |  |
 | 4/28 |  | 9.2–9.4 | Closures, Abstract Machine E |  |  |
 | 4/30 | - More Language Features | 12.1–12.3 | Recursive Types |  |  |
