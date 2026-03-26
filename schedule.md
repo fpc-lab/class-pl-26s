@@ -17,7 +17,7 @@
 | 4/7 |  | 4.4, 5.6 | Type Safety | HW5 |  |
 | 4/9 |  | 3.7 | De Bruijn Indexes |  |  |
 | 4/14 |  |  | No Class (Midterm Week) |  |  |
-| 4/16 |  |  | **Midterm Exam (9:15am—10:45am)** |  | **HW5 (4/20)** |
+| 4/16 |  |  | **Midterm Exam (9:15am—10:45am)** |  | **HW5 (4/19)** |
 | 4/21 | - More Operational Semantics | 8.1–8.2 | Evaluation Contexts | HW6 |  |
 | 4/23 |  | 8.3–9.1 | Abstract Machine C, Environments |  |  |
 | 4/28 |  | 9.2–9.4 | Closures, Abstract Machine E |  |  |
