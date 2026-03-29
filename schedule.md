@@ -28,12 +28,12 @@
 | 5/14 |                              | 10.1–10.4 | Exceptions, Continuations                  |            |                |
 | 5/19 |                              | 11.1–11.3 | Subtyping                                  |            |                |
 | 5/21 | Polymorphic λ-Calculus       | 13.1–13.3 | System F                                   |            |                |
-| 5/26 |                              | 13.4–13.6 | Let/Implicit Polymorphism                  | HW8        | **HW7**        |
+| 5/26 |                              | 13.4–13.6 | Let/Implicit Polymorphism                  |            |                |
 | 5/28 | Theorem Proving              | [Link](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf), [Link](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/) | Curry-Howard Correspondence | | |
-| 6/2  |                              | [Link](https://lean-lang.org/theorem_proving_in_lean4/Tactics/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Inductive-Types/)                   | Theorem Proving in Lean ([1](https://avigad.github.io/lamr/using_lean_as_a_proof_assistant.html), [2](https://avigad.github.io/lamr/equality_and_induction_in_lean.html) / [3](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-20-25.lean), [4](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-27-25.lean), [5](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-04-17-25.lean)) |  |  |
-| 6/4  | Conclusion                   | N/A       | Course Wrap-Up                             |            | **HW8 (6/5)**  |
+| 6/2  |                              | [Link](https://lean-lang.org/theorem_proving_in_lean4/Tactics/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Inductive-Types/)                   | Theorem Proving in Lean ([1](https://avigad.github.io/lamr/using_lean_as_a_proof_assistant.html), [2](https://avigad.github.io/lamr/equality_and_induction_in_lean.html) / [3](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-20-25.lean), [4](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-27-25.lean), [5](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-04-17-25.lean)) | HW8 | **HW7** |
+| 6/4  | Conclusion                   | N/A       | Course Wrap-Up                             |            |                |
 | 6/9  | —                            | —         | No Class (Final Week)                      |            |                |
-| 6/11 | —                            | —         | **Final Exam (9:15am—10:45am)**            |            |                |
+| 6/11 | —                            | —         | **Final Exam (9:15am—10:45am)**            |            | **HW8 (6/14)**  |
 
 <!---
 | M/DD | - More Language Features | 6.1–6.3 | Mutable References
