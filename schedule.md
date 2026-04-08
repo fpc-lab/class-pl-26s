@@ -9,7 +9,7 @@
 | 3/10 |                              | 2.4       | Inductive Proofs                           | HW2        | **HW1**        |
 | 3/12 |                              | 2.5       | Techniques for Inductive Proofs            |            |                |
 | 3/17 | Untyped λ-Calculus           | 3.1–3.2   | Untyped λ-Calculus (1)                     | HW3        | **HW2**        |
-| 3/19 |                              | 3.1-3.2   | Untyped λ-Calculus (2)                     |            |                |
+| 3/19 |                              | 3.1–3.2   | Untyped λ-Calculus (2)                     |            |                |
 | 3/24 |                              | 3.3       | Substitution in λ-Calculus                 |            | **HW3**        |
 | 3/26 |                              | 3.4–3.5   | Programming in λ-Calculus                  | HW4 (3/27) |                |
 | 3/31 | Simply Typed λ-Calculus      | 4.1–4.3   | Simply Typed λ-Calculus                    |            |                |
