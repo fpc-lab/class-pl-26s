@@ -19,14 +19,14 @@
 | 4/14 | —                            | —         | No Class (Midterm Week)                    |            |                |
 | 4/16 | —                            | —         | **Midterm Exam (9:15am—10:45am)**          |            | **HW5 (4/19)** |
 | 4/21 | More Operational Semantics   | 3.7       | De Bruijn Indexes                          | HW6        |                |
-| 4/23 |                              | 8.1–8.2   | Evaluation Contexts                        |            |                |
-| 4/28 |                              | 8.3–9.1   | Abstract Machine C, Environments           |            |                |
-| 4/30 |                              | 9.2–9.4   | Closures, Abstract Machine E               |            |                |
+| 4/23 |                              | 8.1       | Evaluation Contexts                        |            |                |
+| 4/28 |                              | 8.3, 9.1  | Abstract Machine C, Evaluation Judgment    |            |                |
+| 4/30 |                              | 9.2–9.4   | Environment Semantics, Abstract Machine E  |            |                |
 | 5/5  | —                            | —         | No Class (Children’s Day)                  | HW7        | **HW6**        |
 | 5/7  | —                            | —         | No Class (POSTECH Festival)                |            |                |
-| 5/12 | More Language Features       | 12.1–12.3 | Recursive Types                            |            |                |
+| 5/12 | More Language Features       | 12.1–12.2 | Recursive Types                            |            |                |
 | 5/14 |                              | 10.1–10.4 | Exceptions, Continuations                  |            |                |
-| 5/19 |                              | 11.1–11.3 | Subtyping                                  |            |                |
+| 5/19 |                              | 11.1–11.2 | Subtyping                                  |            |                |
 | 5/21 | Polymorphic λ-Calculus       | 13.1–13.3 | System F                                   |            |                |
 | 5/26 |                              | 13.4–13.6 | Let/Implicit Polymorphism                  |            |                |
 | 5/28 | Advanced Topics              | [Link](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf), [Link](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/) | Curry-Howard Correspondence | | |
