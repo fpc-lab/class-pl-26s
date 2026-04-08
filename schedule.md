@@ -15,7 +15,7 @@
 | 3/31 | Simply Typed λ-Calculus      | 4.1–4.3   | Simply Typed λ-Calculus                    |            |                |
 | 4/2  |                              | 5.1–5.4   | Extensions to λ-Calculus (1)               |            | **HW4 (4/6)**  |
 | 4/7  |                              | 5.1-5.4   | Extensions to λ-Calculus (2)               | HW5        |                |
-| 4/9  |                              | 4.4, 5.6  | Type Safety                                |            |                |
+| 4/9  |                              | 4.4       | Type Safety                                |            |                |
 | 4/14 | —                            | —         | No Class (Midterm Week)                    |            |                |
 | 4/16 | —                            | —         | **Midterm Exam (9:15am—10:45am)**          |            | **HW5 (4/19)** |
 | 4/21 | More Operational Semantics   | 3.7       | De Bruijn Indexes                          | HW6        |                |
