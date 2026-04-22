@@ -19,9 +19,9 @@
 | 4/14 | —                            | —         | No Class (Midterm Week)                    |            |                |
 | 4/16 | —                            | —         | **Midterm Exam (9:15am—10:45am)**          |            | **HW5 (4/19)** |
 | 4/21 | More Operational Semantics   | 3.7       | De Bruijn Indexes                          | HW6        |                |
-| 4/23 |                              | 8.1       | Evaluation Contexts                        |            |                |
-| 4/28 |                              | 8.3, 9.1  | Abstract Machine C, Evaluation Judgment    |            |                |
-| 4/30 |                              | 9.2–9.4   | Environment Semantics, Abstract Machine E  |            |                |
+| 4/23 |                              | 8.1, 8.3  | Evaluation Contexts, Abstract Machine C    |            |                |
+| 4/28 |                              | 9.1–9.2   | Evaluation Judgment, Environment Semantics |            |                |
+| 4/30 |                              | 9.3–9.4   | Abstract Machine E                         |            |                |
 | 5/5  | —                            | —         | No Class (Children’s Day)                  | HW7        | **HW6**        |
 | 5/7  | —                            | —         | No Class (POSTECH Festival)                |            |                |
 | 5/12 | More Language Features       | 12.1–12.2 | Recursive Types                            |            |                |
