@@ -22,8 +22,8 @@
 | 4/23 |                              | 8.1, 8.3  | Evaluation Contexts, Abstract Machine C    |            |                |
 | 4/28 |                              | 9.1–9.2   | Evaluation Judgment, Environment Semantics |            |                |
 | 4/30 |                              | 9.3–9.4   | Abstract Machine E                         |            |                |
-| 5/5  | —                            | —         | No Class (Children’s Day)                  | HW7        | **HW6**        |
-| 5/7  | —                            | —         | No Class (POSTECH Festival)                |            |                |
+| 5/5  | —                            | —         | No Class (Children’s Day)                  |            |                |
+| 5/7  | —                            | —         | No Class (POSTECH Festival)                | HW7        | **HW6**        |
 | 5/12 | More Language Features       | 12.1–12.2 | Recursive Types                            |            |                |
 | 5/14 |                              | 10.1–10.4 | Exceptions, Continuations                  |            |                |
 | 5/19 |                              | 11.1–11.2 | Subtyping                                  |            |                |
