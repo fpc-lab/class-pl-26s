@@ -20,7 +20,7 @@
 | 4/16 | —                            | —         | **Midterm Exam (9:15am—10:45am)**          |            | **HW5 (4/19)** |
 | 4/21 | More Operational Semantics   | 3.7       | De Bruijn Indexes                          | HW6        |                |
 | 4/23 |                              | 8.1, 8.3  | Evaluation Contexts, Abstract Machine C    |            |                |
-| 4/28 |                              | 9.1–9.2   | Evaluation Judgment, Environment Semantics |            |                |
+| 4/28 |                              | 9.1–9.2   | Big-Step Semantics, Environment Semantics  |            |                |
 | 4/30 |                              | 9.3–9.4   | Abstract Machine E                         |            |                |
 | 5/5  | —                            | —         | No Class (Children’s Day)                  |            |                |
 | 5/7  | —                            | —         | No Class (POSTECH Festival)                | HW7        | **HW6**        |
