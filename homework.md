@@ -36,7 +36,7 @@
 - λ-Calculus
     - **HW4 (>7 days):** [Semantics of UML](https://plms.postech.ac.kr/mod/assign/view.php?id=220232)
     - **HW5 (>7 days):** [Type System of TML](https://plms.postech.ac.kr/mod/assign/view.php?id=221455)
-    - **HW6 (14 days):** [Semantics of TML with De Bruijn Indexes](https://plms.postech.ac.kr/mod/assign/view.php?id=223359)
+    - **HW6 (14 days):** [Efficient Semantics of TML](https://plms.postech.ac.kr/mod/assign/view.php?id=223359)
     - **HW7 (28 days):** TBA
 - Other Topics
     - **HW8 (~10 days):** TBA
