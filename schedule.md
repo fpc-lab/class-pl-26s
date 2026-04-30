@@ -18,7 +18,7 @@
 | 4/9  |                              | 4.4       | Type Safety                                |            |                |
 | 4/14 | —                            | —         | No Class (Midterm Week)                    |            |                |
 | 4/16 | —                            | —         | **Midterm Exam (9:15am—10:45am)**          |            | **HW5 (4/19)** |
-| 4/21 | Efficient Implementations    | 3.7       | De Bruijn Indexes                          | HW6        |                |
+| 4/21 | More Efficient Semantics     | 3.7       | De Bruijn Indexes                          | HW6        |                |
 | 4/23 |                              | 8.1, 8.3  | Evaluation Contexts, Abstract Machine C    |            |                |
 | 4/28 |                              | 9.1–9.2   | Big-Step Semantics, Environment Semantics  |            |                |
 | 4/30 |                              | 9.3–9.4   | Abstract Machine E                         |            |                |
