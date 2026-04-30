@@ -18,13 +18,13 @@
 | 4/9  |                              | 4.4       | Type Safety                                |            |                |
 | 4/14 | —                            | —         | No Class (Midterm Week)                    |            |                |
 | 4/16 | —                            | —         | **Midterm Exam (9:15am—10:45am)**          |            | **HW5 (4/19)** |
-| 4/21 | More Efficient Semantics     | 3.7       | De Bruijn Indexes                          | HW6        |                |
+| 4/21 | Efficient Implementations    | 3.7       | De Bruijn Indexes                          | HW6        |                |
 | 4/23 |                              | 8.1, 8.3  | Evaluation Contexts, Abstract Machine C    |            |                |
 | 4/28 |                              | 9.1–9.2   | Big-Step Semantics, Environment Semantics  |            |                |
 | 4/30 |                              | 9.3–9.4   | Abstract Machine E                         |            |                |
 | 5/5  | —                            | —         | No Class (Children’s Day)                  |            |                |
 | 5/7  | —                            | —         | No Class (POSTECH Festival)                | HW7        | **HW6**        |
-| 5/12 | More Language Features       | 12.1–12.2 | Recursive Types                            |            |                |
+| 5/12 | Further Extensions           | 12.1–12.2 | Recursive Types                            |            |                |
 | 5/14 |                              | 10.1–10.4 | Exceptions, Continuations                  |            |                |
 | 5/19 |                              | 11.1–11.2 | Subtyping                                  |            |                |
 | 5/21 | Polymorphic λ-Calculus       | 13.1–13.3 | System F                                   |            |                |
