@@ -21,9 +21,9 @@
 ### Grades
 
 - **Attendance (0%):** Fail if you are absent for ≥ 8 classes (based on the electronic attendance system).
-- **Participation (4%):** Full credit if you ask ≥ 4 in-person questions during or after class.
-- **Homework (50%):** You will have 8 programming assignments (with largely nonuniform weights).
-- **Exams (46%):** You will have 2 exams: a midterm (23%) and a final (23%).
+- **Participation (5%):** Full credit if you ask ≥ 4 in-person questions during or after class.
+- **Homework (45%):** You will have 8 programming assignments (with largely nonuniform weights).
+- **Exams (50%):** You will have 2 exams: a midterm (25%) and a final (25%).
 
 ### Books
 
