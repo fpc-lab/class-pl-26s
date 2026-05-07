@@ -24,8 +24,8 @@
 | 4/30 |                              | 9.3–9.4   | Abstract Machine E                         |            |                |
 | 5/5  | —                            | —         | No Class (Children’s Day)                  |            |                |
 | 5/7  | —                            | —         | No Class (POSTECH Festival)                | HW7        | **HW6**        |
-| 5/12 | Further Extensions           | 12.1–12.2 | Recursive Types                            |            |                |
-| 5/14 |                              | 10.1–10.4 | Exceptions, Continuations                  |            |                |
+| 5/12 |                              | HW7 PDF   | Abstract Machine Mach                      |            |                |
+| 5/14 | Further Extensions           | 12.1–12.2 | Recursive Types                            |            |                |
 | 5/19 |                              | 11.1–11.2 | Subtyping                                  |            |                |
 | 5/21 | Polymorphic λ-Calculus       | 13.1–13.3 | System F                                   |            |                |
 | 5/26 |                              | 13.4–13.6 | Let/Implicit Polymorphism                  |            |                |
@@ -36,6 +36,7 @@
 | 6/11 | —                            | —         | **Final Exam (9:15am—10:45am)**            |            | **HW8 (6/14)** |
 
 <!---
-| M/DD | - More Language Features | 6.1–6.3 | Mutable References
-| M/DD | Theorem Proving          | [Link](https://lean-lang.org/theorem_proving_in_lean4/Dependent-Type-Theory/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Quantifiers-and-Equality/) | Dependent Types
+| M/DD | Further Extensions           | 10.1–10.4 | Exceptions, Continuations                  |            |                |
+| M/DD | Further Extensions           | 6.1–6.3   | Mutable References
+| M/DD | Advanced Topics              | [Link](https://lean-lang.org/theorem_proving_in_lean4/Dependent-Type-Theory/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Quantifiers-and-Equality/) | Dependent Types
 -->
