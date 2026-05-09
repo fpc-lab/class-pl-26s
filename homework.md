@@ -39,5 +39,5 @@
     - **HW6 (>14 days):** [Efficient Semantics of Typed ML](https://plms.postech.ac.kr/mod/assign/view.php?id=223359)
     - **HW7 (>24 days):** [Translation of Tiny ML](https://plms.postech.ac.kr/mod/assign/view.php?id=225686)
 - Other Topics
-    - **HW8 (~10 days):** TBA
+    - **HW8 (>10 days):** TBA
     - ~**HW9 (~10 days):** TBA~
