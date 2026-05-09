@@ -30,14 +30,14 @@
 ### Schedule
 
 - Functional Programming
-    - **HW1 (7 days):** [OCaml Programming 1](https://plms.postech.ac.kr/mod/assign/view.php?id=215554)
-    - **HW2 (7 days):** [OCaml Programming 2](https://plms.postech.ac.kr/mod/assign/view.php?id=216964)
-    - **HW3 (7 days):** [OCaml Programming 3](https://plms.postech.ac.kr/mod/assign/view.php?id=218762)
+    - **HW1 (7 days):** [OCaml Programming 1](https://plms.postech.ac.kr/mod/assign/view.php?id=215554) (Functions)
+    - **HW2 (7 days):** [OCaml Programming 2](https://plms.postech.ac.kr/mod/assign/view.php?id=216964) (Functions, Modules)
+    - **HW3 (7 days):** [OCaml Programming 3](https://plms.postech.ac.kr/mod/assign/view.php?id=218762) (Modules)
 - λ-Calculus
-    - **HW4 (>7 days):** [Semantics of Untyped ML](https://plms.postech.ac.kr/mod/assign/view.php?id=220232)
-    - **HW5 (>7 days):** [Type System of Typed ML](https://plms.postech.ac.kr/mod/assign/view.php?id=221455)
-    - **HW6 (>14 days):** [Efficient Semantics of Typed ML](https://plms.postech.ac.kr/mod/assign/view.php?id=223359)
-    - **HW7 (>24 days):** [Translation of Tiny ML](https://plms.postech.ac.kr/mod/assign/view.php?id=225686)
+    - **HW4 (>7 days):** [Operational Semantics of UML](https://plms.postech.ac.kr/mod/assign/view.php?id=220232) (Untyped λ-Calculus)
+    - **HW5 (>7 days):** [Type System of TML](https://plms.postech.ac.kr/mod/assign/view.php?id=221455) (Simply Typed λ-Calculus)
+    - **HW6 (>14 days):** [Efficient Semantics of TML](https://plms.postech.ac.kr/mod/assign/view.php?id=223359) (Simply Typed λ-Calculus)
+    - **HW7 (>24 days):** [Translation of TML](https://plms.postech.ac.kr/mod/assign/view.php?id=225686) (Tiny OCaml)
 - Other Topics
     - **HW8 (>10 days):** TBA
     - ~**HW9 (~10 days):** TBA~
