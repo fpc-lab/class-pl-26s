@@ -34,7 +34,7 @@
     - **HW2 (7 days):** [OCaml Programming 2](https://plms.postech.ac.kr/mod/assign/view.php?id=216964)
     - **HW3 (7 days):** [OCaml Programming 3](https://plms.postech.ac.kr/mod/assign/view.php?id=218762)
 - λ-Calculus
-    - **HW4 (>7 days):** [Operational Semantics of Untyped ML](https://plms.postech.ac.kr/mod/assign/view.php?id=220232)
+    - **HW4 (>7 days):** [Semantics of Untyped ML](https://plms.postech.ac.kr/mod/assign/view.php?id=220232)
     - **HW5 (>7 days):** [Type System of Typed ML](https://plms.postech.ac.kr/mod/assign/view.php?id=221455)
     - **HW6 (>14 days):** [Efficient Semantics of Typed ML](https://plms.postech.ac.kr/mod/assign/view.php?id=223359)
     - **HW7 (>24 days):** [Translation of Tiny ML](https://plms.postech.ac.kr/mod/assign/view.php?id=225686)
