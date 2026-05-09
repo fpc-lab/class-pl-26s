@@ -16,24 +16,24 @@
 | 4/2  |                              | 5.1–5.4   | Extensions to λ-Calculus (1)               |            | **HW4 (4/6)**  |
 | 4/7  |                              | 5.1–5.4   | Extensions to λ-Calculus (2)               | HW5        |                |
 | 4/9  |                              | 4.4       | Type Safety                                |            |                |
-| 4/14 | —                            | —         | No Class (Midterm Week)                    |            |                |
-| 4/16 | —                            | —         | **Midterm Exam (9:15am—10:45am)**          |            | **HW5 (4/19)** |
+| 4/14 | —                            | —         | [No Class] (Midterm Week)                  |            |                |
+| 4/16 | —                            | —         | **[Midterm Exam] (09:15—10:45)**           |            | **HW5 (4/19)** |
 | 4/21 | Efficient Implementations    | 3.7       | De Bruijn Indexes                          | HW6        |                |
 | 4/23 |                              | 8.1, 8.3  | Evaluation Contexts, Abstract Machine C    |            |                |
-| 4/28 |                              | 9.1–9.2   | Big-Step Semantics, Environment Semantics  |            |                |
+| 4/28 |                              | 9.1–9.2   | Big-Step/Environment Semantics             |            |                |
 | 4/30 |                              | 9.3–9.4   | Abstract Machine E                         |            |                |
 | 5/5  | —                            | —         | No Class (Children’s Day)                  |            |                |
 | 5/7  | —                            | —         | No Class (POSTECH Festival)                | HW7        | **HW6**        |
-| 5/12 |                              | HW7 PDF   | Abstract Machine Mach                      |            |                |
+| 5/12 |                              | HW7       | Abstract Machine Mach                      |            |                |
 | 5/14 | Further Extensions           | 12.1–12.2 | Recursive Types                            |            |                |
 | 5/19 |                              | 11.1–11.2 | Subtyping                                  |            |                |
-| 5/21 | Polymorphic λ-Calculus       | 13.1–13.3 | System F                                   |            |                |
-| 5/26 |                              | 13.4–13.6 | Let/Implicit Polymorphism                  |            |                |
+| 5/21 | Polymorphic λ-Calculus       | 13.1      | System F                                   |            |                |
+| 5/26 |                              | 13.5–13.6 | Let/Implicit Polymorphism                  |            |                |
 | 5/28 | Advanced Topics              | [Link](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf), [Link](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/) | Curry-Howard Correspondence | | |
 | 6/2  |                              | [Link](https://lean-lang.org/theorem_proving_in_lean4/Tactics/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Inductive-Types/)                   | Theorem Proving in Lean ([1](https://avigad.github.io/lamr/using_lean_as_a_proof_assistant.html), [2](https://avigad.github.io/lamr/equality_and_induction_in_lean.html) / [3](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-20-25.lean), [4](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-27-25.lean), [5](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-04-17-25.lean)) | HW8 | **HW7** |
-| 6/4  |                              | None      | Course Review                              |            |                |
-| 6/9  | —                            | —         | No Class (Final Week)                      |            |                |
-| 6/11 | —                            | —         | **Final Exam (9:15am—10:45am)**            |            | **HW8 (6/14)** |
+| 6/4  |                              | N/A       | Course Review                              |            |                |
+| 6/9  | —                            | —         | [No Class] (Final Week)                    |            |                |
+| 6/11 | —                            | —         | **[Final Exam] (09:15—10:45)**             |            | **HW8 (6/14)** |
 
 <!---
 | M/DD | Further Extensions           | 10.1–10.4 | Exceptions, Continuations                  |            |                |
