@@ -24,7 +24,7 @@
 | 4/30 |                              | 9.3–9.4   | Abstract Machine E                         |            |                |
 | 5/5  | —                            | —         | No Class (Children’s Day)                  |            |                |
 | 5/7  | —                            | —         | No Class (POSTECH Festival)                | HW7        | **HW6**        |
-| 5/12 |                              | HW7       | Abstract Machine Mach                      |            |                |
+| 5/12 |                              | HW7       | Overview of HW7                            |            |                |
 | 5/14 | Further Extensions           | 12.1–12.2 | Recursive Types                            |            |                |
 | 5/19 |                              | 11.1–11.2 | Subtyping                                  |            |                |
 | 5/21 | Polymorphic λ-Calculus       | 13.1      | System F                                   |            |                |
