@@ -5,7 +5,7 @@
 - **Course Number:** POSTECH CSED321
 - **Course PLMS:** https://plms.postech.ac.kr/course/view.php?id=14720
 - **Staff:** [Wonyeol Lee](https://wonyeol.github.io/) (Instructor), Taejun Yoon (TA)
-- **Lectures:** Tuesdays & Thursdays, 9:30am—10:45am (Mueunjae Bldg #307; 무은재 307호)
+- **Lectures:** Tuesdays & Thursdays, 09:30—10:45 (Mueunjae Bldg #307; 무은재 307호)
 - **Office Hours:** By appointment via email (PIAI #335; 인공지능연구원 335호)
 
 ### Overview
