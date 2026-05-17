@@ -27,16 +27,17 @@
 | 5/12 |                              | HW7       | Overview of HW7                            |            |                |
 | 5/14 | Further Extensions           | 12.1–12.2 | Recursive Types                            |            |                |
 | 5/19 |                              | 11.1–11.2 | Subtyping                                  |            |                |
-| 5/21 | Polymorphic λ-Calculus       | 13.1      | System F                                   |            |                |
-| 5/26 |                              | 13.5–13.6 | Let/Implicit Polymorphism                  |            |                |
-| 5/28 | Advanced Topics              | [Link](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf), [Link](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/) | Curry-Howard Correspondence | | |
-| 6/2  |                              | [Link](https://lean-lang.org/theorem_proving_in_lean4/Tactics/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Inductive-Types/)                   | Theorem Proving in Lean ([1](https://avigad.github.io/lamr/using_lean_as_a_proof_assistant.html), [2](https://avigad.github.io/lamr/equality_and_induction_in_lean.html) / [3](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-20-25.lean), [4](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-27-25.lean), [5](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-04-17-25.lean)) | HW8 | **HW7** |
-| 6/4  |                              | N/A       | Course Review                              |            |                |
+| 5/21 |                              | —         | [Open Turing 2026](https://open-turing.github.io/) |    |                |
+| 5/26 | Polymorphic λ-Calculus       | 13.1      | System F                                   |            |                |
+| 5/28 |                              | 13.5–13.6 | Let/Implicit Polymorphism                  |            |                |
+| 6/2  | Advanced Topics              | [Link](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf), [Link](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/) | Curry-Howard Correspondence, Lean | HW8 | **HW7** |
+| 6/4  |                              | —         | Course Review                              |            |                |
 | 6/9  | —                            | —         | [No Class] (Final Week)                    |            |                |
 | 6/11 | —                            | —         | **[Final Exam] (09:15—10:45)**             |            | **HW8 (6/14)** |
 
 <!---
-| M/DD | Further Extensions           | 10.1–10.4 | Exceptions, Continuations                  |            |                |
+| M/DD | Further Extensions           | 10.1–10.4 | Exceptions, Continuations
 | M/DD | Further Extensions           | 6.1–6.3   | Mutable References
 | M/DD | Advanced Topics              | [Link](https://lean-lang.org/theorem_proving_in_lean4/Dependent-Type-Theory/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Quantifiers-and-Equality/) | Dependent Types
+| M/DD | Advanced Topics              | [Link](https://lean-lang.org/theorem_proving_in_lean4/Tactics/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Inductive-Types/) | Theorem Proving in Lean ([1](https://avigad.github.io/lamr/using_lean_as_a_proof_assistant.html), [2](https://avigad.github.io/lamr/equality_and_induction_in_lean.html) / [3](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-20-25.lean), [4](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-27-25.lean), [5](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-04-17-25.lean))
 -->
