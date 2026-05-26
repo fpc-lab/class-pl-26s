@@ -28,8 +28,8 @@
 | 5/14 | Further Extensions           | 12.1–12.2 | Recursive Types                            |            |                |
 | 5/19 |                              | 11.1–11.2 | Subtyping                                  |            |                |
 | 5/21 |                              | —         | [Open Turing 2026](https://open-turing.github.io/) |    |                |
-| 5/26 | Polymorphic λ-Calculus       | 13.1–13.2 | System F, Type Reconstruction              |            |                |
-| 5/28 |                              | 13.4–13.5 | Let-Polymorphism                           |            |                |
+| 5/26 | Polymorphic λ-Calculus       | 13.1–13.2 | Polymorphic λ-Calculus                     |            |                |
+| 5/28 |                              | 13.4–13.5 | Let-Polymorphic λ-Calculus                 |            |                |
 | 6/2  | Advanced Topics              | [Link](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf), [Link](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/) | Curry-Howard Correspondence, Lean | HW8 | **HW7** |
 | 6/4  |                              | —         | Course Review                              |            |                |
 | 6/9  | —                            | —         | [No Class] (Final Week)                    |            |                |
