@@ -30,7 +30,7 @@
 | 5/21 |                              | —         | [Open Turing 2026](https://open-turing.github.io/) |    |                |
 | 5/26 | Polymorphic λ-Calculus       | 13.1–13.2 | Polymorphic λ-Calculus                     |            |                |
 | 5/28 |                              | 13.4–13.5 | Let-Polymorphic λ-Calculus                 |            |                |
-| 6/2  | Advanced Topics              | [Link](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf), [Link](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/) | Curry-Howard Correspondence | HW8 | **HW7** |
+| 6/2  | Advanced Topics              | [Link](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf) | Curry-Howard Correspondence | HW8 | **HW7** |
 | 6/4  |                              | [Link](http://pl.postech.ac.kr/~gla/lics2014/notes/all.pdf) (2.1–2.4,<br>3.1–3.2)         | Constructive Logic / Course Review         |            |                |
 | 6/9  | —                            | —         | [No Class] (Final Week)                    |            |                |
 | 6/11 | —                            | —         | **[Final Exam] (09:15—10:45)**             |            | **HW8 (6/14)** |
@@ -38,6 +38,6 @@
 <!---
 | M/DD | Further Extensions           | 10.1–10.4 | Exceptions, Continuations
 | M/DD | Further Extensions           | 6.1–6.3   | Mutable References
-| M/DD | Advanced Topics              | [Link](https://lean-lang.org/theorem_proving_in_lean4/Dependent-Type-Theory/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Quantifiers-and-Equality/) | Dependent Types
+| M/DD | Advanced Topics              | [Link](https://lean-lang.org/theorem_proving_in_lean4/Propositions-and-Proofs/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Dependent-Type-Theory/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Quantifiers-and-Equality/) | Dependent Types
 | M/DD | Advanced Topics              | [Link](https://lean-lang.org/theorem_proving_in_lean4/Tactics/), [Link](https://lean-lang.org/theorem_proving_in_lean4/Inductive-Types/) | Theorem Proving in Lean ([1](https://avigad.github.io/lamr/using_lean_as_a_proof_assistant.html), [2](https://avigad.github.io/lamr/equality_and_induction_in_lean.html) / [3](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-20-25.lean), [4](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-02-27-25.lean), [5](https://www.cs.cmu.edu/~mheule/15311-s25/lean/lecture-04-17-25.lean))
 -->
