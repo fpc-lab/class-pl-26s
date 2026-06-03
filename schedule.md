@@ -31,7 +31,7 @@
 | 5/26 | Polymorphic λ-Calculus       | 13.1–13.2 | Polymorphic λ-Calculus                     |            |                |
 | 5/28 |                              | 13.4–13.5 | Let-Polymorphic λ-Calculus                 |            |                |
 | 6/2  | Advanced Topics              | [Link](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf), [Link](https://dl.acm.org/doi/10.1145/2699407) | Curry-Howard Correspondence | HW8 | **HW7** |
-| 6/4  |                              | [Link](http://pl.postech.ac.kr/~gla/lics2014/notes/all.pdf) (2.1–2.4,<br>3.1–3.2)         | Constructive Logic / Course Review         |            |                |
+| 6/4  |                              | [Link](http://pl.postech.ac.kr/~gla/lics2014/notes/all.pdf)<br><sup>(2.1–2.4, 3.1–3.2)</sup>         | Constructive Logic / Course Review         |            |                |
 | 6/9  | —                            | —         | [No Class] (Final Week)                    |            |                |
 | 6/11 | —                            | —         | **[Final Exam] (09:15—10:45)**             |            | **HW8 (6/14)** |
 
