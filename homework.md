@@ -39,5 +39,4 @@
     - **HW6 (>14 days):** [Efficient Semantics of TML](https://plms.postech.ac.kr/mod/assign/view.php?id=223359) (Simply Typed λ-Calculus)
     - **HW7 (>24 days):** [Translation of TML](https://plms.postech.ac.kr/mod/assign/view.php?id=225686) (Tiny OCaml)
 - Other Topics
-    - **HW8 (>10 days):** TBA
-    - ~**HW9 (~10 days):** TBA~
+    - **HW8 (>10 days):** [Typing and Semantics of FJ](https://plms.postech.ac.kr/mod/assign/view.php?id=229576) (Featherweight Java)
