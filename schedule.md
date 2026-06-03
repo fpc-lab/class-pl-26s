@@ -2,7 +2,7 @@
 
 | Date | Unit                            | Sections  | Topics                                     | Out                   | Due                       |
 | ---  | ---                             | ---       | ---                                        | ---                   | ---                       |
-| 2/24 | 1. Functional Programming       | 1.1–1.3   | Overview / Expressions, Variables          |                       |                           |
+| 2/24 | 1. Functional Programming       | 1.1–1.3   | Overview // Expressions, Variables          |                       |                           |
 | 2/26 |                                 | 1.4–1.7   | Functions, Types, Recursion                | HW1                   |                           |
 | 3/3  |                                 | 1.8–1.12  | Datatypes, Higher-Order Functions, Modules |                       |                           |
 | 3/5  | 2. Inductive Definitions/Proofs | 2.1–2.2   | Inductive Definitions                      |                       |                           |
@@ -31,7 +31,7 @@
 | 5/26 | 5. Polymorphic λ-Calculus       | 13.1–13.2 | Polymorphic λ-Calculus                     |                       |                           |
 | 5/28 |                                 | 13.4–13.5 | Let-Polymorphic λ-Calculus                 |                       |                           |
 | 6/2  | 6. Advanced Topics              | [Slides](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf) / <br>[Paper](https://dl.acm.org/doi/10.1145/2699407) + [Video](https://www.youtube.com/watch?v=IOiZatlZtGU) | Curry-Howard Correspondence | HW8 <sup>(6/3)</sup> | **HW7** |
-| 6/4  |                                 | [Notes](http://pl.postech.ac.kr/~gla/lics2014/notes/all.pdf)<br> <sup>(2.1–2.4, 3.1–3.2)</sup> | Type Theory, Constructive Logic / Review |   |   |
+| 6/4  |                                 | [Notes](http://pl.postech.ac.kr/~gla/lics2014/notes/all.pdf)<br> <sup>(2.1–2.4, 3.1–3.2)</sup> | Type Theory, Constructive Logic // Review |   |   |
 | 6/9  | —                               | —         | [No Class] (Final Week)                    |                       |                           |
 | 6/11 | —                               | —         | **[Final Exam] (09:15—10:45)**             |                       | **HW8 <sup>(6/14)</sup>** |
 
