@@ -5,7 +5,7 @@
 | 2/24 | 1. Functional Programming       | 1.1–1.3   | Course Overview // Expressions, Variables  |                       |                           |
 | 2/26 |                                 | 1.4–1.7   | Functions, Types, Recursion                | HW1                   |                           |
 | 3/3  |                                 | 1.8–1.12  | Datatypes, Higher-Order Functions, Modules |                       |                           |
-| 3/5  | 2. Inductive Definitions/Proofs | 2.1–2.2   | Inductive Definitions                      |                       |                           |
+| 3/5  | 2. Inductive Def's/Proofs | 2.1–2.2   | Inductive Definitions                      |                       |                           |
 | 3/10 |                                 | 2.4       | Inductive Proofs                           | HW2                   | **HW1**                   |
 | 3/12 |                                 | 2.5       | Techniques for Inductive Proofs            |                       |                           |
 | 3/17 | 3. Untyped λ-Calculus           | 3.1–3.2   | Untyped λ-Calculus (1)                     | HW3                   | **HW2**                   |
@@ -30,8 +30,8 @@
 | 5/21 | —                               | —         | [Open Turing 2026](https://open-turing.github.io/) |               |                           |
 | 5/26 | 5. Polymorphic λ-Calculus       | 13.1–13.2 | Polymorphic λ-Calculus                     |                       |                           |
 | 5/28 |                                 | 13.4–13.5 | Let-Polymorphic λ-Calculus                 |                       |                           |
-| 6/2  | 6. Advanced Topics              | [Slides](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf) / <br>[Paper](https://dl.acm.org/doi/10.1145/2699407) + [Video](https://www.youtube.com/watch?v=IOiZatlZtGU) | Curry-Howard Correspondence | HW8<sup>(6/4)</sup> | **HW7** |
-| 6/4  |                                 | [Notes](https://raw.githubusercontent.com/fpc-lab/class-pl-26s/refs/heads/main/cs433-notes.pdf)<sup>(2.1–2.4,</sup><br><sup>3.1–3.2)</sup> / [Lean](./lean/example.lean) | Constructive Logic, Type Theory, Lean <br>// Course Review |   |   |
+| 6/2  | 6. Advanced Topics              | [Notes](https://raw.githubusercontent.com/fpc-lab/class-pl-26s/refs/heads/main/cs433-notes.pdf) <br> <sup>(2.1–2.4, 3.1–3.2)</sup> | Curry-Howard Correspondence <br> (More References: [Paper](https://dl.acm.org/doi/10.1145/2699407), [Video](https://www.youtube.com/watch?v=IOiZatlZtGU)) | HW8<sup>(6/4)</sup> | **HW7** |
+| 6/4  |                                 | [Slides](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf), [Code](./lean/example.lean) | Constructive Logic, Type Theory, Lean // <br> Course Review |   |   |
 | 6/9  | —                               | —         | [No Class] (Final Week)                    |                       |                           |
 | 6/11 | —                               | —         | **[Final Exam] (09:15—10:45)**             |                       | **HW8<sup>(6/14)</sup>**  |
 
