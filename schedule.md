@@ -31,7 +31,7 @@
 | 5/26 | 5. Polymorphic λ-Calculus       | 13.1–13.2 | Polymorphic λ-Calculus                     |                       |                           |
 | 5/28 |                                 | 13.4–13.5 | Let-Polymorphic λ-Calculus                 |                       |                           |
 | 6/2  | 6. Advanced Topics              | [Slides](https://wonyeol.github.io/files/stanford-cs242-lecture14-2025.pdf) / <br>[Paper](https://dl.acm.org/doi/10.1145/2699407) + [Video](https://www.youtube.com/watch?v=IOiZatlZtGU) | Curry-Howard Correspondence | HW8<sup>(6/4)</sup> | **HW7** |
-| 6/4  |                                 | [Notes]([./cs433-notes.pdf](https://raw.githubusercontent.com/fpc-lab/class-pl-26s/refs/heads/main/cs433-notes.pdf))<sup>(2.1–2.4,</sup><br><sup>3.1–3.2)</sup> / [Lean](./lean/example.lean) | Constructive Logic, Type Theory, Lean <br>// Course Review |   |   |
+| 6/4  |                                 | [Notes](https://raw.githubusercontent.com/fpc-lab/class-pl-26s/refs/heads/main/cs433-notes.pdf)<sup>(2.1–2.4,</sup><br><sup>3.1–3.2)</sup> / [Lean](./lean/example.lean) | Constructive Logic, Type Theory, Lean <br>// Course Review |   |   |
 | 6/9  | —                               | —         | [No Class] (Final Week)                    |                       |                           |
 | 6/11 | —                               | —         | **[Final Exam] (09:15—10:45)**             |                       | **HW8<sup>(6/14)</sup>**  |
 
